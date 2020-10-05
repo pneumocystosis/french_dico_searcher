@@ -1,4 +1,4 @@
-fichier = open(r"S:\c602\donnees\1NSI\dico.txt")
+fichier = open(r"dico.txt")
 long = int(input("Quelle longueur de mot? "))
 lettres = list(input("Quelles sont les lettres nécessaires?(séparées par un espace): ").split())
 listemots = []
