@@ -21,5 +21,6 @@ for ligne in listLignes:
         listemots.append(ligne)
     
 print("".join(listemots))
+input("Appuyez sur entrée pour continuer...")
 
 
